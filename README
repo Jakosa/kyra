@@ -1,0 +1,3 @@
+A modern C++ IRC bot and framework.
+
+Requires Boost 1.48.0 (http://www.boost.org)
