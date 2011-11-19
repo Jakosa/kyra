@@ -1,8 +1,8 @@
-// stdafx.cpp : source file that includes just the standard includes
-// Kyra.pch will be the pre-compiled header
-// stdafx.obj will contain the pre-compiled type information
+/*  Copyright (C) 2011 Twl
+	(http://www.github.com/twl)
+
+	Project: http://www.github.com/twl/kyra
+*/
 
 #include "stdafx.h"
 
-// TODO: reference any additional headers you need in STDAFX.H
-// and not in this file

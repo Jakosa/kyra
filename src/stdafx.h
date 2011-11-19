@@ -1,7 +1,8 @@
-// stdafx.h : include file for standard system include files,
-// or project specific include files that are used frequently, but
-// are changed infrequently
-//
+/*  Copyright (C) 2011 Twl
+	(http://www.github.com/twl)
+
+	Project: http://www.github.com/twl/kyra
+*/
 
 #pragma once
 
@@ -12,6 +13,3 @@
 #include <cstdio>
 
 
-
-
-// TODO: reference additional headers your program requires here
