@@ -3,6 +3,7 @@
 *.pidb
 *.mdb
 */bin/*
+*/ipch/*
 
 #ignore thumbnails created by windows
 Thumbs.db
@@ -13,6 +14,7 @@ Thumbs.db
 *.user
 *.aps
 *.pch
+*.sdf
 *.vspscc
 *_i.c
 *_p.c
@@ -34,3 +36,4 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 UpgradeLog.XML
 *.ReSharper
+*.opensdf
