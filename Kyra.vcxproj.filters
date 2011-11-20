@@ -3,9 +3,26 @@
   <ItemGroup>
     <ClCompile Include="src\Kyra.cpp" />
     <ClCompile Include="src\stdafx.cpp" />
+    <ClCompile Include="src\IRC\irc_connection.cpp">
+      <Filter>IRC</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\stdafx.h" />
     <ClInclude Include="src\targetver.h" />
+    <ClInclude Include="src\IRC\irc_connection.hpp">
+      <Filter>IRC</Filter>
+    </ClInclude>
+    <ClInclude Include="src\IRC\irc_message.hpp">
+      <Filter>IRC</Filter>
+    </ClInclude>
+    <ClInclude Include="src\IRC\irc_replies.hpp">
+      <Filter>IRC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="IRC">
+      <UniqueIdentifier>{e193f7ce-0d7b-4c28-b03b-b32f7706b61e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
